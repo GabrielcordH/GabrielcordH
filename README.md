@@ -1,5 +1,5 @@
 #  About Me:
-👋Oi! Me chamo Gabriel Cordeiro, estudante de economia e ciêntista de dados em formação<br>📚Curso Ciências Econômicas na UFC, onde também realizei pesquisa em econometria aplicada entre 2021 e 2023<br>👨‍💻Atualmente estou procurando aprender Machine Learning em R, e me desenvolver em Python e SQL <br>🎯Meu objetivo aqui é documentar meu portfólio em Data science e interagir com a comunidade da área
+👋Oi! Me chamo Gabriel Cordeiro, estudante de economia e ciêntista de dados em formação<br>📚Curso Ciências Econômicas na UFC, onde também realizei pesquisa em econometria aplicada entre 2021 e 2023<br>👨‍💻Atualmente estou procurando me desenvolver em Python e SQL <br>🎯Meu objetivo aqui é documentar meu portfólio em Data science e interagir com a comunidade da área
 
 
 ## 🌐 Socials:
