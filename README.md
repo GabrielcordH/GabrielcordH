@@ -1,5 +1,5 @@
 #  About Me:
-👋 Hello, I'm Gabriel Cordeiro!<br>📚 Economist & Master's Student in Social Sciences 📍 Federal University of Ceará <br>👨‍💻Atualmente estou procurando me desenvolver em Python e SQL <br>🎯Meu objetivo aqui é documentar meu portfólio em Data science e interagir com a comunidade da área
+👋 Hello, I'm Gabriel Cordeiro!<br>📚 Economist & Master's Student in Social Sciences 📍 Federal University of Ceará <br>👨‍💻Experience with R, Python, SQL and QGIS <br>🎯My focus is on statistics, econometrics and data science
 
 
 ## 🌐 Socials:
