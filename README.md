@@ -15,5 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcordh&show_icons=true&locale=en&layout=compact" alt="gabrielcordh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcordh&show_icons=true&locale=en" alt="gabrielcordh" /></p>
 
